@@ -1,7 +1,8 @@
 {
-    "name": "MYTYKit Mediapipe Extension",
+    "name": "MYTYMediapipeExtensionEditor",
     "rootNamespace": "",
     "references": [
+        "GUID:505ce24934c7444708ad1ed25f7fe756",
         "GUID:9513bc30d46ec4841a6fc8d80a91f1db"
     ],
     "includePlatforms": [],
