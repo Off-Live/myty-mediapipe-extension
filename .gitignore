@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+.idea*
+Assets/MYTYAsset*
+Assets/MYTYKit/CmdTools*
+Assets/MYTYKit/UI*
+Assets/MYTYKit/Prefabs*
+Assets/MYTYKit/Extensions/MYTY Mediapipe/Plugins*
+Assets/StreamingAssets*
+Assets/Scenes*
+Packages/packages-lock.json
+

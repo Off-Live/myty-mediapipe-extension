@@ -1,0 +1,16 @@
+{
+    "name": "myty-mediapipe-pack",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9513bc30d46ec4841a6fc8d80a91f1db"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
