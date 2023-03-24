@@ -652,7 +652,7 @@ MonoBehaviour:
   motionSource: {fileID: 9212716866690242239}
   configText: {fileID: 4900000, guid: 7d3c713906341c5419504bff27c359bb, type: 3}
   configWithoutHandText: {fileID: 4900000, guid: f4401718886fc457a88a1ae992951fb3, type: 3}
-  imageSource: {fileID: 9212716866843020333}
+  imageSource: {fileID: 4156278382955012050}
   inputFlipped: 1
   trackingHands: 0
   detectedEvent:
@@ -2300,7 +2300,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 9212716866843020330}
-  - component: {fileID: 9212716866843020333}
+  - component: {fileID: 4156278382955012050}
   m_Layer: 0
   m_Name: CameraSource
   m_TagString: Untagged
@@ -2323,7 +2323,7 @@ Transform:
   m_Father: {fileID: 9212716865624219467}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &9212716866843020333
+--- !u!114 &4156278382955012050
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2332,12 +2332,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 9212716866843020332}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 554221666a38b442ca85a454c409b8be, type: 3}
+  m_Script: {fileID: 11500000, guid: 6c24a7bb0652340ed92cdc6825ac33d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   camTexture: {fileID: 0}
   previewRenderer: {fileID: 9212716865904257140}
-  camDeviceName: FaceTime HD Camera
+  camDeviceName: 
 --- !u!1 &9212716866851715514
 GameObject:
   m_ObjectHideFlags: 0
